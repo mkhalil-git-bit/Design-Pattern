@@ -1,0 +1,14 @@
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory.deps.json
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory.runtimeconfig.json
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory.dll
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/bin/Debug/net9.0/AbstractFactory.pdb
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.AssemblyInfo.cs
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.dll
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/obj/Debug/net9.0/refint/AbstractFactory.dll
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.pdb
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/obj/Debug/net9.0/AbstractFactory.genruntimeconfig.cache
+/Users/mozammilkhalil/OOPS/Design Pattern/AbstractFactory/obj/Debug/net9.0/ref/AbstractFactory.dll

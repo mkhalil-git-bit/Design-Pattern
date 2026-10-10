@@ -1,0 +1,14 @@
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/bin/Debug/net9.0/PrototypePattern
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/bin/Debug/net9.0/PrototypePattern.deps.json
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/bin/Debug/net9.0/PrototypePattern.runtimeconfig.json
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/bin/Debug/net9.0/PrototypePattern.dll
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/bin/Debug/net9.0/PrototypePattern.pdb
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/obj/Debug/net9.0/PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/obj/Debug/net9.0/PrototypePattern.AssemblyInfoInputs.cache
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/obj/Debug/net9.0/PrototypePattern.AssemblyInfo.cs
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/obj/Debug/net9.0/PrototypePattern.csproj.CoreCompileInputs.cache
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/obj/Debug/net9.0/PrototypePattern.dll
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/obj/Debug/net9.0/refint/PrototypePattern.dll
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/obj/Debug/net9.0/PrototypePattern.pdb
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/obj/Debug/net9.0/PrototypePattern.genruntimeconfig.cache
+/Users/mozammilkhalil/OOPS/Design Pattern/PrototypePattern/obj/Debug/net9.0/ref/PrototypePattern.dll

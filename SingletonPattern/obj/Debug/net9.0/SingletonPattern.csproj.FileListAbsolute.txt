@@ -1,0 +1,14 @@
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern.deps.json
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern.runtimeconfig.json
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern.dll
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/bin/Debug/net9.0/SingletonPattern.pdb
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.AssemblyInfo.cs
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.dll
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/obj/Debug/net9.0/refint/SingletonPattern.dll
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.pdb
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/obj/Debug/net9.0/SingletonPattern.genruntimeconfig.cache
+/Users/mozammilkhalil/OOPS/Design Pattern/SingletonPattern/obj/Debug/net9.0/ref/SingletonPattern.dll
