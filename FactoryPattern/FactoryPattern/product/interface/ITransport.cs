@@ -1,0 +1,4 @@
+interface ITransport
+{
+    void Deliver();
+}
